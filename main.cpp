@@ -12,7 +12,7 @@ int main() {
 // F.1. Print out course and student info
 	cout << " Course Title: Scripting and Programing - Applications C867" << endl;
 	cout << "\t \tProgramming Language Used: C++" << endl;
-	cout << "\t \tWGU Student Number: 010193498" << endl;
+	cout << "\t \tWGU Student Number: **********" << endl;
 	cout << " \t Student Programmer's Name: Donal Schultz" << endl << endl << endl;
 	
 // Student Data Table - modified with my own info
